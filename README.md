@@ -39,3 +39,12 @@ This project demonstrates a modular, component-based pipeline for generating med
 
 ---
 
+## Screenshots
+
+### Main Interface
+![Main UI](screenshots/main.png)
+
+### Example Output
+![Generated Quiz Output](screenshots/output.png)
+
+

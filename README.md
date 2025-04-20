@@ -1,4 +1,4 @@
-# AI-Driven Medical Quiz Generator
+# Interactive AI-Powered Medical Learning Tool
 
 This project demonstrates a modular, component-based pipeline for generating medical quizzes using large language models and current research literature. It uses the Haystack framework to connect PubMed article retrieval, prompt engineering, and LLM-based generation, all integrated into an interactive Gradio interface.
 
